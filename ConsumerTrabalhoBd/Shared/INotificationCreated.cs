@@ -1,4 +1,4 @@
-namespace TrabalhoBancoDeDados.Shared;
+namespace Trabalho123.Shared;
 
 public interface INotificationCreated
 {
